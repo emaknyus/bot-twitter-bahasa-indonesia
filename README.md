@@ -1,7 +1,7 @@
 # bot_geje
 bot twitter bahasa indonesia. javascript (nodejs)
 
-#POC
+#Demo
 https://twitter.com/bot_geje
 
 #install
