@@ -1,5 +1,6 @@
 # bot_geje
 bot twitter bahasa indonesia
+javascript (nodejs)
 
 #install
 npm install
