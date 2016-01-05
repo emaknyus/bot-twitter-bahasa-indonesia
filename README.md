@@ -8,7 +8,7 @@ npm install
 npm start atau node main.js
 
 #license
-copyleft
+copyleft (bebas copy paste edit)
 
 #contact
 waladsafa : emaknyus(at)gmail.com
